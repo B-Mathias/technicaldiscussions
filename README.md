@@ -9,5 +9,8 @@ This is a demo repo for sharing technical ideas and communication
 
 
 ## Gist Example
-
 This is an example of [my code](https://gist.github.com/B-Mathias/877e33f660aa528cd352956ea52d7c5d)
+
+
+## COLAB Example
+This is Colab [Notebook](https://colab.research.google.com/github/B-Mathias/technicaldiscussions/blob/main/techinal_docs.ipynb)
